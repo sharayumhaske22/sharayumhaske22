@@ -33,8 +33,8 @@ Angular Developer | AI/ML Enthusiast | Web & Data Science Master's Student | NLP
 
 #### 📊 GitHub Stats
 
-![Sharayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharayumhaske22&show_icons=true&theme=default&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharayumhaske22&layout=compact&v=2)
+![Sharayu's GitHub stats](https://github-stats-extended.vercel.app/api?username=sharayumhaske22&show_icons=true&theme=default)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sharayumhaske22&layout=compact)
 
 ---
 
